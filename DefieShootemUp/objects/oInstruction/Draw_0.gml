@@ -1,0 +1,1 @@
+draw_text(window_get_height()/3,y, "Fleche directionnelle: Direction  Espace: Tirs  Alt: Epee")
